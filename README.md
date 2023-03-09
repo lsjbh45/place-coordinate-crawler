@@ -1,5 +1,7 @@
 # Place Coordinate Crawler
 
+Developed for automatic coordinate info collecting process of ["한그릇" application](https://apps.apple.com/kr/app/%ED%95%9C%EA%B7%B8%EB%A6%87/id6443803936)
+
 ## Description
 
 This program automatically:
